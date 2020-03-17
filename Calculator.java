@@ -10,6 +10,7 @@ public class Calculator {
 //requests and takes operands 1 and 2
         System.out.print("Enter first operand: ");
         op1 = keyboard.nextDouble();
+        System.out.print("Git test line")
         System.out.print("Enter second operand: ");
         op2 = keyboard.nextDouble();
 
